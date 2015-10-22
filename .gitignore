@@ -1,3 +1,8 @@
+bin
+obj
+*.depend
+*.layout
+
 # Object files
 *.o
 *.ko
